@@ -70,7 +70,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/tymiceli"
+            href="https://www.linkedin.com/in/tyler-miceli-46373a247/"
             target="_blank"
             rel="noreferrer"
           >
